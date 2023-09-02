@@ -1,0 +1,5 @@
+<resources>
+<!--    <string name="app_name">SmsFilter</string>-->
+    <string name="app_name">SpamSms Filter</string>
+    <string name="incoming_spam_sms_detect">Realtime Incoming\nSpam SMS Detect</string>
+</resources>
